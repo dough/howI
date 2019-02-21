@@ -1,0 +1,4 @@
+vi index.html
+git add index.html
+git commit -m "new index"
+git push
